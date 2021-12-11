@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "830113100275",
+    "project_id": "project2sem-98185",
+    "storage_bucket": "project2sem-98185.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830113100275:android:af616ce44fd2bc38a7a286",
+        "android_client_info": {
+          "package_name": "plis.com.project2sem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830113100275-ufojgg426ac0oku6aepn1fuikdavd7tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlbROWCVQQt3RVl71BkAMTTwggVjRL-eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830113100275-ufojgg426ac0oku6aepn1fuikdavd7tn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
